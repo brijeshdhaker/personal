@@ -26,6 +26,7 @@ public class StreamExample {
         stringCollection.add("bbb2");
         stringCollection.add("ddd1");
 
+        
         // Filter
         System.out.println("\n\n //Filter");
         stringCollection.stream()
